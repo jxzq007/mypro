@@ -1,5 +1,5 @@
 public class Hello{
 	public static void main(String args[]) {
-		System.out.println("yootk.COM");
+		System.out.println("www.yootk.com");
 	}
 }
